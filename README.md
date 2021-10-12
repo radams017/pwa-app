@@ -14,3 +14,21 @@
   npm i
   ```
   to download the dependencies to run it locally on your device.
+- Once you are within the application, simply follow the inputs on the screen to add/subtract money.
+- If you want to download the application, simply click the download button that appears in your browswer's search bar.
+
+## Go To Application
+
+[Application](https://shrouded-springs-44297.herokuapp.com/)
+
+## Screenshot
+
+![Deployed Application](public/img/ss.png)
+
+## Questions
+
+- If you have any questions about this application please feel free to contact me via Github.
+
+## License
+
+MIT
