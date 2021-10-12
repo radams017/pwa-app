@@ -4,6 +4,7 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/index.js",
   "/manifest.webmanifest",
+  "/webpack.config.js",
 ];
 
 const PRECACHE = "precache-v1";
