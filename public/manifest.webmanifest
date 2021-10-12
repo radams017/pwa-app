@@ -17,7 +17,7 @@
   "display": "standalone",
   "start_url": "/",
   "description": "An application that allows you to track all of your expenses, necessary and unnecessary.",
-  "background_color": "#01579b",
-  "theme_color": "#ffffff",
-  "theme-color": "#ffffff"
+  "background_color": "#eeeeee",
+  "theme_color": "#76a5af",
+  "theme-color": "#76a5af"
 }
