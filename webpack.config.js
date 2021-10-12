@@ -3,7 +3,7 @@ const path = require("path");
 
 const config = {
   entry: {
-    app: "./assets/js/index.js",
+    app: "./public/index.js",
     db: "./public/db.js",
     model: "./models/transaction.js",
   },
@@ -41,7 +41,7 @@ const config = {
         {
           src: path.resolve("public/icons/icon-192x192.png"),
           sizes: [96, 128, 192, 256, 384, 512],
-          destination: path.join("assets", "icons"),
+          destination: path.join("public", "icons"),
         },
       ],
     }),
